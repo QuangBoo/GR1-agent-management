@@ -2,9 +2,10 @@
 
 Participants:
 
-- Leader: [Name - ID]
-- Member: [Name - ID]
-- Member: [Name - ID]
+- Leader: Phạm Minh Quang - 19522099
+- Member: Trần Lương Tiến Sĩ - 19522128
+- Member: Phạm Âu Thành Trung - 19522433
+- Member: Lê Văn Phúc - 19522033
 
 
 Task management table: [here](https://trello.com/b/N0dTGGkV) [Replace by your public board later]
