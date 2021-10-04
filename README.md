@@ -8,7 +8,7 @@ Participants:
 - Member: Lê Văn Phúc - 19522033
 
 
-Task management table: [here](https://trello.com/b/N0dTGGkV) [Replace by your public board later]
+Task management table: [here](https://trello.com/b/wGKoZUDc/client-workflow-management) [Replace by your public board later]
 
 UI / UX prototype: [here](https://www.figma.com/community/file/1017274846862703022) [Replace by your public prototype later]
 
