@@ -5,7 +5,7 @@ Participants:
 - Leader: Phạm Minh Quang - 19522099
 - Member: Trần Lương Tiến Sĩ - 19522128
 - Member: Phạm Âu Thành Trung - 19522433
-- Member: Lê Văn Phúc - 19522033
+- Member: Lê Văn Phúc -  19522033
 
 
 Task management table: [here](https://trello.com/b/wGKoZUDc/client-workflow-management) [Replace by your public board later]
