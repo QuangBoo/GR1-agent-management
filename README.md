@@ -10,7 +10,7 @@ Participants:
 
 Task management table: [here](https://trello.com/b/wGKoZUDc/client-workflow-management) [Replace by your public board later]
 
-UI / UX prototype: [here](https://www.figma.com/community/file/1017274846862703022) [Replace by your public prototype later]
+UI / UX prototype: [here](https://www.figma.com/file/20HgK9KXW5hpG2mnwxTZH2/Untitled?node-id=1%3A2) [Replace by your public prototype later]
 
 Tech stacks:
 
