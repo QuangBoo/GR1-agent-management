@@ -4,7 +4,6 @@ Participants:
 
 - Leader: Phạm Minh Quang - 19522099
 - Member: Trần Lương Tiến Sĩ - 19522128
-- Member: Phạm Âu Thành Trung - 19522433
 - Member: Lê Văn Phúc -  19522033
 
 
@@ -14,7 +13,7 @@ UI / UX prototype: [here](https://www.figma.com/file/20HgK9KXW5hpG2mnwxTZH2/Unti
 
 Tech stacks:
 
-- Front-end: [...]
+- Front-end: html, css
 - Back-end: [...]
 - Database: [...]
 - ...
