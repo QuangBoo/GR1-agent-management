@@ -15,7 +15,7 @@ Tech stacks:
 
 - Front-end: html, css
 - Back-end: [...]
-- Database: [...]
+- Database: https://drive.google.com/file/d/1OShrjTd4QHYDapq4-nTq-BJOo3tDmSHR/view?usp=sharing
 - ...
 
 Demo online: [link to website](https://six-plausible-punch.glitch.me/)
